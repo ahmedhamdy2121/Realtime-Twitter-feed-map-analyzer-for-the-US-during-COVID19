@@ -1,0 +1,371 @@
+{
+  "created_at": "Mon Apr 13 04:21:19 +0000 2020",
+  "id": 1249553225444819000,
+  "id_str": "1249553225444818944",
+  "text": "RT @automeme: Robots replace Japanese students at graduation amid coronavirus. The robots'faces were tablets that displayed the faces of th…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 25877022,
+    "id_str": "25877022",
+    "name": "Shelby LaFontaine",
+    "screen_name": "muddyinpb",
+    "location": "San Diego",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 217,
+    "friends_count": 245,
+    "listed_count": 0,
+    "favourites_count": 91016,
+    "statuses_count": 51006,
+    "created_at": "Sun Mar 22 20:46:43 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/106889246/Muddy_at_Pat_s_BD_celebration_07__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/106889246/Muddy_at_Pat_s_BD_celebration_07__normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": {
+    "coordinates":[-75.14310264,40.05701649],
+    "type":"Point"
+},
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+    "created_at": "Fri Apr 10 10:17:58 +0000 2020",
+    "id": 1248555815100985300,
+    "id_str": "1248555815100985344",
+    "text": "Robots replace Japanese students at graduation amid coronavirus. The robots'faces were tablets that displayed the f… https://t.co/nKCPmXUalI",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1019916306160799700,
+      "id_str": "1019916306160799745",
+      "name": "Automeme",
+      "screen_name": "automeme",
+      "location": "New York, USA",
+      "url": "https://autome.me",
+      "description": "Passionate About Latest #Technology. Visit https://t.co/prKyCecOlw for Updates in #AI #Business #fintech #Robotics #Data~LinkedIn~https://t.co/03a523dP2h",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 6287,
+      "friends_count": 1486,
+      "listed_count": 105,
+      "favourites_count": 35904,
+      "statuses_count": 39445,
+      "created_at": "Thu Jul 19 12:06:11 +0000 2018",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1083681521876287488/62YGTQqT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1083681521876287488/62YGTQqT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019916306160799745/1575399935",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "Robots replace Japanese students at graduation amid coronavirus. The robots'faces were tablets that displayed the faces of the graduates who logged on at home &amp; controlled the robots via their laptops. #ArtificialIntelligence #MachineLearning #Robotics #DataScience #BigData #Tech https://t.co/il6zQ3Ztkg",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ArtificialIntelligence",
+            "indices": [
+              206,
+              229
+            ]
+          },
+          {
+            "text": "MachineLearning",
+            "indices": [
+              230,
+              246
+            ]
+          },
+          {
+            "text": "Robotics",
+            "indices": [
+              247,
+              256
+            ]
+          },
+          {
+            "text": "DataScience",
+            "indices": [
+              257,
+              269
+            ]
+          },
+          {
+            "text": "BigData",
+            "indices": [
+              270,
+              278
+            ]
+          },
+          {
+            "text": "Tech",
+            "indices": [
+              279,
+              284
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1248552955017433000,
+            "id_str": "1248552955017433088",
+            "indices": [
+              285,
+              308
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248552955017433088/pu/img/jK1CkgMExF0fpcFX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248552955017433088/pu/img/jK1CkgMExF0fpcFX.jpg",
+            "url": "https://t.co/il6zQ3Ztkg",
+            "display_url": "pic.twitter.com/il6zQ3Ztkg",
+            "expanded_url": "https://twitter.com/automeme/status/1248555815100985344/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                427,
+                240
+              ],
+              "duration_millis": 54888,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/640x360/GaxL8Q6O5_xOoB65.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/pl/B5b-7nAOZlqSM_Ra.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/854x480/jKRaxll_PTvgTKkw.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/480x270/eVRYkbA52HY7eS0p.mp4?tag=10"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 854,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 854,
+                "h": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1248552955017433000,
+            "id_str": "1248552955017433088",
+            "indices": [
+              285,
+              308
+            ],
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1248552955017433088/pu/img/jK1CkgMExF0fpcFX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1248552955017433088/pu/img/jK1CkgMExF0fpcFX.jpg",
+            "url": "https://t.co/il6zQ3Ztkg",
+            "display_url": "pic.twitter.com/il6zQ3Ztkg",
+            "expanded_url": "https://twitter.com/automeme/status/1248555815100985344/video/1",
+            "type": "video",
+            "video_info": {
+              "aspect_ratio": [
+                427,
+                240
+              ],
+              "duration_millis": 54888,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/640x360/GaxL8Q6O5_xOoB65.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/pl/B5b-7nAOZlqSM_Ra.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/854x480/jKRaxll_PTvgTKkw.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1248552955017433088/pu/vid/480x270/eVRYkbA52HY7eS0p.mp4?tag=10"
+                }
+              ]
+            },
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 854,
+                "h": 480,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 854,
+                "h": 480,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 9,
+    "reply_count": 3,
+    "retweet_count": 50,
+    "favorite_count": 75,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/nKCPmXUalI",
+          "expanded_url": "https://twitter.com/i/web/status/1248555815100985344",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "automeme",
+        "name": "Automeme",
+        "id": 1019916306160799700,
+        "id_str": "1019916306160799745",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1586751679179"
+}
